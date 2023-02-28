@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hola
+=======
+>>>>>>> 751db3a245f10eba3b485092a238904b6490e58f
 hola felipe
